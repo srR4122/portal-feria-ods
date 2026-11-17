@@ -79,7 +79,7 @@ const topicContent = {
     sources: [
       { label: "SENAPRED · Plan Familia Preparada", url: "https://www.senapred.cl/familia-preparada/" },
       { label: "SENAPRED · Visor Chile Preparado", url: "https://www.senapred.cl/visor-preparado/" },
-      { label: "ONU · ODS 11 Ciudades sostenibles", url: "https://chile.un.org/es/sdgs/11" }
+      { label: "ONU · ODS 16 Paz, justicia e instituciones sólidas", url: "https://chile.un.org/es/sdgs/16" }
     ]
   },
   portal: {
@@ -122,7 +122,7 @@ const topicContent = {
     sources: [
       { label: "ONU · ODS 3 Salud y bienestar", url: "https://chile.un.org/es/sdgs/3" },
       { label: "ONU · ODS 4 Educación de calidad", url: "https://chile.un.org/es/sdgs/4" },
-      { label: "ONU · ODS 11 Ciudades sostenibles", url: "https://chile.un.org/es/sdgs/11" }
+      { label: "ONU · ODS 16 Paz, justicia e instituciones sólidas", url: "https://chile.un.org/es/sdgs/16" }
     ]
   }
 };
